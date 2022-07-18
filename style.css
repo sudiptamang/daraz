@@ -1,0 +1,85 @@
+.container {
+  display: flex;
+}
+
+.list {
+  margin-top: 23px;
+  display: flex;
+  opacity: 0.7;
+  margin-left: 80px;
+  list-style: none;
+}
+.image {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  margin-left: 20px;
+}
+.icon {
+  margin-top: 23px;
+  margin-left: 300px;
+}
+.details {
+  padding-left: 20px;
+}
+.astral {
+  height: 300px;
+  border-radius: 10px;
+}
+.headline {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+h5 {
+  color: orange;
+}
+h1 {
+  width: 300px;
+}
+h3 {
+  width: 400px;
+  /* opacity: 0.5; */
+  color: gray;
+  font-size: small;
+}
+.percent {
+  padding-left: 10px;
+  color: orange;
+}
+button {
+  background-color: whitesmoke;
+  height: 30px;
+  width: 100px;
+  border: none;
+  display: flex;
+  margin-top: 20px;
+  justify-content: space-between;
+  padding-top: 5px;
+}
+.title {
+  margin-left: 50px;
+}
+
+.container1 {
+  display: flex;
+}
+.selecetedShoes {
+  height: 65px;
+  width: 65px;
+  border-radius: 5px;
+  margin: 10px 0px 0px 10px;
+}
+
+.selecetedShoes {
+  height: 60px;
+  width: 60px;
+}
+.active {
+  border: 3px solid orangered;
+  opacity: 0.5;
+  height: 60px;
+  width: 60px;
+}
+del {
+  opacity: 0.5;
+}
